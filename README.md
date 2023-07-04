@@ -1,1 +1,1 @@
-# ts-learning
+## typescript patterns

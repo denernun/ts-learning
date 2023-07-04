@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "incremental": true,
+    "target": "es6",
+    "module": "CommonJS",
+    "lib": ["ES6"],
+    "allowJs": true,
+    "outDir": "./build",
+    "rootDir": "./src",
+    "strict": true,
+    "noImplicitAny": true,
+    "noUnusedLocals": false,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "strictPropertyInitialization": false,
+    "sourceMap": true,
+    "skipLibCheck": true
+    // "declarationMap": true,
+    // "forceConsistentCasingInFileNames": true,
+    // "declaration": true,
+    // "emitDecoratorMetadata": true,
+    // "experimentalDecorators": true,
+    // "allowSyntheticDefaultImports": true,
+    // "noImplicitReturns": true,
+    // "noLib": false,
+  }
+}
